@@ -8,6 +8,7 @@ import 'package:googlemap/next_wakuchinpage.dart';
 
 void main() => runApp(MyApp());
 //変更加えました
+//変更できているかな
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
